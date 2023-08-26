@@ -76,7 +76,7 @@ nav ul li a:hover::after{
 /* para sa header title */
 .header-text{
     margin-top: 20%;
-    font-size: 30px;  
+    font-size: 40px;  
     color: #ffffff;
 
 }
@@ -89,6 +89,10 @@ nav ul li a:hover::after{
 }
 
 .header-text h1 span{
+    color: #702de1; 
+}
+
+.header-text p span{
     color: #702de1; 
 }
 
