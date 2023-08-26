@@ -414,6 +414,11 @@ nav .fa-solid{
         text-shadow: #000000;
     }
 
+    .header-text p span{
+        color: #fcfcfc; 
+        text-shadow: #000000;
+    }
+
     .logo{
         width: 140px;
         }        
